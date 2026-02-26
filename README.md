@@ -1,6 +1,74 @@
-# 💫 About Me:
-I’m a Product-Focused Software Engineer with 2+ years of industry experience building scalable, production-grade systems.<br>Early in my career, I chose engineering depth over short-term comfort — turning down a higher-paying offer from a large service-based company to join a product startup with more uncertainty, stricter constraints, and real ownership. That decision accelerated my growth in system thinking, architecture, and execution.<br>I don’t just write code — I design systems.<br><br>🧠 **Engineering Philosophy**<br>Write code that scales, not code that just works.<br>Optimize for clarity, performance, and maintainability.<br>Understand trade-offs before choosing tools.<br>Think in systems, not features.<br><br>💻 What I Work On<br>⚡ Full-stack product development (Next.js, Nest Js, Postgresql, Kafka, Docker)<br>🔐 Production-ready authentication systems (MongoDB session-based auth)<br>📊 Dashboard systems with real-time updates & sockets<br>🌍 Multilingual applications (including Arabic localization)<br>📈 Scalable backend systems & database design<br>🧠 DSA & System Design (preparing for high-scale engineering roles)<br><br>🛠 Tech Stack<br>Frontend: React, Next.js (App Router), Tailwind, Framer Motion<br>Backend: Node.js, Express<br>Database: MongoDB, SQL, Postgresql, Clickhouse<br>Realtime: WebSockets, SSE<br>Tools: Git, Docker, REST APIs, Deployment pipelines<br>Deployment: Nginx, Docker, Kubernetes, AWS<br><br>🧠 Currently Focused On<br>Advanced System Design (preparing for top product companies)<br>Writing cleaner, scalable backend architecture<br>Optimizing performance in frontend transitions<br>
+# 💫 About Me
 
+## 👋 Hi, I'm Shahab
+
+I am a **Product-Focused Software Engineer** with 2+ years of industry experience building scalable, production-grade systems.
+
+Early in my career, I chose **engineering depth over short-term comfort** — turning down a higher-paying offer from a large service-based company to join a product startup with greater ownership, stricter constraints, and higher uncertainty. That decision accelerated my growth in system thinking, architecture, and execution.
+
+> I don’t just write code — I design systems.
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Build systems that **scale**, not just features that work  
+- Optimize for **clarity, performance, and maintainability**  
+- Understand **trade-offs** before selecting tools  
+- Think in terms of **architecture and long-term impact**
+
+---
+
+## 💻 What I Work On
+
+- ⚡ **Full-Stack Product Development** — Next.js, NestJS, PostgreSQL, Kafka, Docker  
+- 🔐 **Authentication Systems** — Production-ready session-based architecture  
+- 📊 **Real-Time Dashboards** — WebSockets & SSE  
+- 🌍 **Multilingual Platforms** — Including RTL & Arabic localization  
+- 📈 **Backend Architecture & Database Design**  
+- 🧠 **DSA & System Design** — Preparing for high-scale engineering environments  
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+`React` • `Next.js (App Router)` • `Tailwind CSS` • `Framer Motion`
+
+### ⚙ Backend
+`Node.js` • `NestJS` • `Express`
+
+### 🗄 Databases
+`MongoDB` • `PostgreSQL` • `SQL` • `ClickHouse`
+
+### 🔄 Real-Time & Messaging
+`WebSockets` • `SSE` • `Kafka`
+
+### ☁ DevOps & Deployment
+`Docker` • `Kubernetes` • `Nginx` • `AWS` • `CI/CD`
+
+---
+
+## 🎯 Currently Focused On
+
+- Advanced **System Design** for distributed systems  
+- Scalable backend architecture patterns  
+- Performance optimization (frontend + backend)  
+- Writing clean, maintainable, production-grade code  
+
+---
+
+## 📌 Career Direction
+
+Building systems where:
+- Scale matters  
+- Architecture matters  
+- Engineering standards matter  
+- Ownership is real  
+
+---
+
+⭐️ Always open to collaborating on impactful product-focused systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@shahab_musharraf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamusharraf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shahabmusharraf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MyCodingCollege) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahabmusharraf96943@gmail.com) 
