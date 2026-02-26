@@ -1,6 +1,4 @@
-# 💫 About Me
-
-## 👋 Hi, I'm Shahab
+# 💫 Hi, I'm Shahab 👋
 
 I am a **Product-Focused Software Engineer** with 2+ years of industry experience building scalable, production-grade systems.
 
